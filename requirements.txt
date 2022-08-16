@@ -1,0 +1,10 @@
+# dependencies
+pydantic
+devtools[pygments]
+
+# dev dependencies
+black
+isort
+flake9  # a flake 8 fork with the option to config flake8 into pyproject.toml: [tool.flake8] Section
+mypy
+pylint
