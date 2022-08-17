@@ -9,3 +9,4 @@ flake9  # a flake 8 fork with the option to config flake8 into pyproject.toml: [
 mypy
 pylint
 vulture
+coverage
