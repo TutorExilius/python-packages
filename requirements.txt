@@ -1,8 +1,7 @@
 # dependencies
-pydantic
-devtools[pygments]
 
 # dev dependencies
+devtools[pygments]
 black
 isort
 Flake8-pyproject  # flake8 with pyproject.toml config support ([tool.flake8] Section)
