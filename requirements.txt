@@ -5,7 +5,7 @@ devtools[pygments]
 # dev dependencies
 black
 isort
-flake9  # a flake 8 fork with the option to config flake8 into pyproject.toml: [tool.flake8] Section
+Flake8-pyproject  # flake8 with pyproject.toml config support ([tool.flake8] Section)
 mypy
 pylint
 vulture
